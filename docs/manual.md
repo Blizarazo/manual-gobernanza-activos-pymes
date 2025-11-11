@@ -8,38 +8,9 @@ Este manual guía tiene como propósito fortalecer la gobernanza de activos digi
 
 La gobernanza de activos digitales en pequeñas y medianas empresas requiere una estructura clara que permita tomar decisiones estratégicas, éticas y sostenibles. Este marco conceptual se basa en tres pilares interrelacionados:
 
-🧱 1. Niveles de Aplicación
-Los niveles definen dónde se toman decisiones y qué tipo de activos se gestionan:
-
-### Niveles de aplicación
-
-| Nivel           | ¿Dónde se decide?                          | Tipo de activos gestionados                     |
-|-----------------|--------------------------------------------|-------------------------------------------------|
-| Organización    | Dirección general, políticas institucionales | Infraestructura tecnológica, cultura digital     |
-| Portafolio      | Áreas estratégicas o conjuntos de programas | CRM, sistema contable, plataforma de ventas     |
-| Programa        | Equipos que gestionan proyectos relacionados | Transformación digital del área comercial       |
-| Proyecto        | Equipos tácticos con entregables concretos  | Sitio web, app, base de datos específica        |
-
-
-🧭 2. Dominios de Gobernanza
-Los dominios representan las dimensiones clave que deben ser consideradas en la toma de decisiones:
-
-| Dominio	    | Enfoque principal	                        | Preguntas guía                                |
-|---------------|-------------------------------------------|-----------------------------------------------|
-|Alineación	    | Coherencia entre activos y estrategia	    |¿Este activo responde a nuestros objetivos?    |
-|Riesgo	        | Identificación y mitigación de amenazas   |¿Qué pasa si este activo falla o se vulnera?   |
-|Rendimiento    | Evaluación de resultados y eficiencia	    |¿Está generando valor real para la empresa?    |
-|Comunicaciones	| Transparencia y flujo de información	    |¿Quién sabe qué, cuándo y cómo se decide?      |
-
-🧩 3. Funciones Clave
-Las funciones definen cómo se ejerce la gobernanza en cada nivel y dominio:
-
-| Función	| Acción principal	| Ejemplo práctico
-|---------------|-------------------------------------------|-----------------------------------------------|
-| Supervisión	| Observar, acompañar y validar	| Revisión periódica de uso de licencias
-| Control	| Establecer límites y reglas	| Definir quién accede a qué datos
-| Integración	| Conectar procesos y herramientas	| Sincronizar CRM con sistema contable
-| Toma de decisiones | 	Elegir con base en criterios éticos y estratégicos	| Decidir si renovar, migrar o eliminar un activo
+- **Niveles**: dónde se toman decisiones (Organización, Portafolio, Programa, Proyecto)
+- **Dominios**: qué dimensiones se consideran (Alineación, Riesgo, Rendimiento, Comunicaciones)
+- **Funciones**: cómo se ejerce la gobernanza (Supervisión, Control, Integración, Toma de decisiones)
 
 ✨ Interacción entre los tres pilares
 La gobernanza efectiva ocurre cuando los niveles, dominios y funciones se cruzan en una matriz viva. Por ejemplo:
@@ -49,13 +20,35 @@ En el nivel proyecto, aplicar la función de control sobre el dominio de riesgo 
 En el nivel organización, ejercer supervisión sobre el dominio de alineación puede significar revisar si los activos digitales están alineados con la misión institucional.
 
 ## 3. Niveles de aplicación
-Organización, Portafolio, Programa, Proyecto.
+Los niveles definen dónde se toman decisiones y qué tipo de activos se gestionan:
+
+| Nivel           | ¿Dónde se decide?                          | Tipo de activos gestionados                     |
+|-----------------|--------------------------------------------|-------------------------------------------------|
+| Organización    | Dirección general, políticas institucionales | Infraestructura tecnológica, cultura digital     |
+| Portafolio      | Áreas estratégicas o conjuntos de programas | CRM, sistema contable, plataforma de ventas     |
+| Programa        | Equipos que gestionan proyectos relacionados | Transformación digital del área comercial       |
+| Proyecto        | Equipos tácticos con entregables concretos  | Sitio web, app, base de datos específica        |
 
 ## 4. Dominios de gobernanza
-Alineación, Riesgo, Rendimiento, Comunicaciones.
+Los dominios representan las dimensiones clave que deben ser consideradas en la toma de decisiones:
+
+| Dominio	    | Enfoque principal	                        | Preguntas guía                                |
+|---------------|-------------------------------------------|-----------------------------------------------|
+|Alineación	    | Coherencia entre activos y estrategia	    |¿Este activo responde a nuestros objetivos?    |
+|Riesgo	        | Identificación y mitigación de amenazas   |¿Qué pasa si este activo falla o se vulnera?   |
+|Rendimiento    | Evaluación de resultados y eficiencia	    |¿Está generando valor real para la empresa?    |
+|Comunicaciones	| Transparencia y flujo de información	    |¿Quién sabe qué, cuándo y cómo se decide?      |
+
 
 ## 5. Funciones clave
-Supervisión, Control, Integración, Toma de decisiones.
+Las funciones definen cómo se ejerce la gobernanza en cada nivel y dominio:
+
+| Función	| Acción principal	| Ejemplo práctico
+|---------------|-------------------------------------------|-----------------------------------------------|
+| Supervisión	| Observar, acompañar y validar	| Revisión periódica de uso de licencias
+| Control	| Establecer límites y reglas	| Definir quién accede a qué datos
+| Integración	| Conectar procesos y herramientas	| Sincronizar CRM con sistema contable
+| Toma de decisiones | 	Elegir con base en criterios éticos y estratégicos	| Decidir si renovar, migrar o eliminar un activo
 
 ## 6. Matriz de gobernanza
 Tabla que cruza niveles, dominios y funciones.
@@ -69,7 +62,11 @@ Tabla que cruza niveles, dominios y funciones.
 | Proyecto    | Riesgo         | Revisión de respaldo y contingencia      | Control de acceso a datos sensibles      | Integración con sistemas de protección       | Decisión sobre continuidad o cierre    
 
 ## 7. Plantillas y herramientas
-Checklist, formatos, diagramas.
+
+- ✅ Checklist de evaluación de activos digitales
+- 📝 Formato para toma de decisiones éticas
+- 📊 Diagrama de flujo de gobernanza por nivel
+- 📁 Carpeta `/templates` con archivos `.md`, `.xlsx` y `.pdf` adaptables
 
 ## 8. Casos de uso
 🧩 Ejemplos por sector
@@ -89,4 +86,7 @@ Nivel Proyecto – Riesgo – Supervisión Revisión de protocolos de respaldo p
 Nivel Organización – Alineación – Integración Vinculación del sistema de inventario con los objetivos de sostenibilidad y trazabilidad.
 
 ## 9. Epílogo ético
-Reflexión sobre cuidado, inclusión y sostenibilidad.
+
+Gobernar activos digitales no es solo decidir sobre herramientas, sino sobre vínculos, memorias y futuros posibles.  
+Este manual es una invitación a ejercer la tecnología con ternura, rigor y propósito, reconociendo que cada decisión digital también es una decisión humana.  
+La inclusión, la sostenibilidad y el cuidado no son añadidos: son el corazón de una gobernanza verdaderamente transformadora.
