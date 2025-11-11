@@ -1,1 +1,0 @@
-{{nombre_empresa}}, {{sector}}, {{objetivos_estratégicos}}, {{activos_clave}}
