@@ -48,16 +48,6 @@ En el nivel proyecto, aplicar la función de control sobre el dominio de riesgo 
 
 En el nivel organización, ejercer supervisión sobre el dominio de alineación puede significar revisar si los activos digitales están alineados con la misión institucional.
 
-### Matriz de Gobernanza
-
-| Nivel       | Dominio        | Supervisión                              | Control                                  | Integración                                 | Toma de decisiones                            |
-|-------------|----------------|------------------------------------------|------------------------------------------|----------------------------------------------|------------------------------------------------|
-| Organización| Alineación     | Revisión de políticas digitales          | Definición de criterios estratégicos     | Vinculación con misión empresarial           | Selección de plataformas alineadas             |
-| Organización| Riesgo         | Auditoría de vulnerabilidades            | Protocolos de seguridad institucional    | Integración de medidas preventivas           | Decisión sobre inversión en ciberseguridad     |
-| Portafolio  | Rendimiento    | Evaluación de sistemas por área          | Indicadores de eficiencia por programa   | Integración de métricas en dashboards        | Decisión sobre renovación o migración          |
-| Programa    | Comunicaciones | Supervisión de flujos entre equipos      | Control de accesos y permisos            | Integración de canales internos              | Decisión sobre herramientas colaborativas      |
-| Proyecto    | Riesgo         | Revisión de respaldo y contingencia      | Control de acceso a datos sensibles      | Integración con sistemas de protección       | Decisión sobre continuidad o cierre            |
-
 ## 3. Niveles de aplicación
 Organización, Portafolio, Programa, Proyecto.
 
@@ -70,11 +60,33 @@ Supervisión, Control, Integración, Toma de decisiones.
 ## 6. Matriz de gobernanza
 Tabla que cruza niveles, dominios y funciones.
 
+| Nivel       | Dominio        | Supervisión                              | Control                                  | Integración                                 | Toma de decisiones                            |
+|-------------|----------------|------------------------------------------|------------------------------------------|----------------------------------------------|------------------------------------------------|
+| Organización| Alineación     | Revisión de políticas digitales          | Definición de criterios estratégicos     | Vinculación con misión empresarial           | Selección de plataformas alineadas             |
+| Organización| Riesgo         | Auditoría de vulnerabilidades            | Protocolos de seguridad institucional    | Integración de medidas preventivas           | Decisión sobre inversión en ciberseguridad     |
+| Portafolio  | Rendimiento    | Evaluación de sistemas por área          | Indicadores de eficiencia por programa   | Integración de métricas en dashboards        | Decisión sobre renovación o migración          |
+| Programa    | Comunicaciones | Supervisión de flujos entre equipos      | Control de accesos y permisos            | Integración de canales internos              | Decisión sobre herramientas colaborativas      |
+| Proyecto    | Riesgo         | Revisión de respaldo y contingencia      | Control de acceso a datos sensibles      | Integración con sistemas de protección       | Decisión sobre continuidad o cierre    
+
 ## 7. Plantillas y herramientas
 Checklist, formatos, diagramas.
 
 ## 8. Casos de uso
-Ejemplos reales o simulados.
+🧩 Ejemplos por sector
+🏥 Sector Salud
+Nivel Proyecto – Riesgo – Control Control de acceso a historias clínicas digitales mediante autenticación biométrica.
+
+Nivel Organización – Alineación – Toma de decisiones Selección de una plataforma de telemedicina que respete la ética del cuidado y la privacidad.
+
+🎓 Sector Educación
+Nivel Programa – Comunicaciones – Integración Integración de plataformas de aula virtual con sistemas de evaluación y comunicación docente.
+
+Nivel Portafolio – Rendimiento – Supervisión Evaluación del uso de herramientas digitales por facultad para mejorar la experiencia estudiantil.
+
+🛒 Sector Comercio
+Nivel Proyecto – Riesgo – Supervisión Revisión de protocolos de respaldo para la base de datos de clientes y ventas.
+
+Nivel Organización – Alineación – Integración Vinculación del sistema de inventario con los objetivos de sostenibilidad y trazabilidad.
 
 ## 9. Epílogo ético
 Reflexión sobre cuidado, inclusión y sostenibilidad.
